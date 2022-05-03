@@ -2,23 +2,14 @@
   "repository": "@wave/Wave",
   "head": "Feature/Token-Import",
   "rules": [
-    {
-      "name": "Design Tokens / Colors",
-      "path": "tokens/colors.json",
-      "filter":{
-        "types": ["color"]
-      },
-      "parsers": [
-        {
-          "name": "sort-by",
-          "options": {
-            "keys": ["name"]
-          }
-        },
-        {
-          "name": "to-style-dictionary"
-        }
-      ]
-    }
-  ]
+  {
+    "name": "Design Tokens / Colors",
+    "path": "tokens",
+    "parsers": [
+      {
+        "name": "to-style-dictionary"
+      }
+    ]
+  }
+]
 }
