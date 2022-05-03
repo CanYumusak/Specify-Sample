@@ -1,0 +1,9 @@
+{
+  "asset": {
+    "font": {
+      "nationaleMedium": { "ttf": { "value": "Nationale-Medium.ttf" } },
+      "nationaleDemiBold": { "ttf": { "value": "Nationale-DemiBold.ttf" } },
+      "nationaleBold": { "ttf": { "value": "Nationale-Bold.ttf" } }
+    }
+  }
+}

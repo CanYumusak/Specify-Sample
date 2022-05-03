@@ -1,0 +1,27 @@
+{
+  "color": {
+    "base": {
+      "warningDarker": { "value": "rgb(66, 36, 44)" },
+      "warningDark": { "value": "rgb(153, 51, 78)" },
+      "warning": { "value": "rgb(255, 50, 105)" },
+      "specialDarker": { "value": "rgb(66, 51, 36)" },
+      "specialDark": { "value": "rgb(153, 102, 51)" },
+      "special": { "value": "rgb(255, 190, 125)" },
+      "contrastEffect": { "value": "rgba(255, 255, 255, 0.15)" },
+      "contrastDarkest": { "value": "rgb(123, 123, 132)" },
+      "contrastDarker": { "value": "rgb(176, 176, 181)" },
+      "contrastDark": { "value": "rgb(229, 229, 230)" },
+      "contrast": { "value": "rgb(252, 252, 252)" },
+      "buildersOn": { "value": "rgb(106, 76, 255)" },
+      "buildersOff": { "value": "rgba(255, 255, 255, 0)" },
+      "baseEffect": { "value": "rgba(34, 34, 34, 0.6)" },
+      "baseBrightest": { "value": "rgb(74, 74, 79)" },
+      "baseBrighter": { "value": "rgb(49, 49, 53)" },
+      "baseBright": { "value": "rgb(25, 25, 26)" },
+      "base": { "value": "rgb(0, 0, 0)" },
+      "accentDarker": { "value": "rgb(36, 66, 64)" },
+      "accentDark": { "value": "rgb(51, 153, 145)" },
+      "accent": { "value": "rgb(33, 254, 236)" }
+    }
+  }
+}

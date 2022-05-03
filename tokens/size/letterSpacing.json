@@ -1,0 +1,13 @@
+{
+  "size": {
+    "letterSpacing": {
+      "title": { "value": "-0.72px" },
+      "subheadline": { "value": "0.32px" },
+      "footnote": { "value": "0.18px" },
+      "description": { "value": "-0.14px" },
+      "capital": { "value": "1.2px" },
+      "body": { "value": "0.32px" },
+      "badge": { "value": "0.96px" }
+    }
+  }
+}
