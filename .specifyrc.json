@@ -1,0 +1,24 @@
+{
+  "repository": "@wave/Wave",
+  "head": "Feature/Token-Import",
+  "rules": [
+    {
+      "name": "Design Tokens / Colors",
+      "path": "assets/styles/variables/colors.css",
+      "filter":{
+        "types": ["color"]
+      },
+      "parsers": [
+        {
+          "name": "sort-by",
+          "options": {
+            "keys": ["name"]
+          }
+        },
+        {
+          "name": "to-css-custom-properties"
+        }
+      ]
+    }
+  ]
+}
