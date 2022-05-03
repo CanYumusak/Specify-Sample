@@ -4,7 +4,7 @@
   "rules": [
     {
       "name": "Design Tokens / Colors",
-      "path": "assets/styles/variables/colors.css",
+      "path": "tokens/colors.json",
       "filter":{
         "types": ["color"]
       },
@@ -16,7 +16,7 @@
           }
         },
         {
-          "name": "to-css-custom-properties"
+          "name": "to-style-dictionary"
         }
       ]
     }
