@@ -1,0 +1,24 @@
+:root {
+  /* COLOR */
+  --Accent: rgb(33, 254, 236);
+  --accent-dark: rgb(51, 153, 145);
+  --accent-darker: rgb(36, 66, 64);
+  --Base: rgb(0, 0, 0);
+  --base-bright: rgb(25, 25, 26);
+  --base-brighter: rgb(49, 49, 53);
+  --base-brightest: rgb(74, 74, 79);
+  --base-effect: rgba(34, 34, 34, 0.6);
+  --builders-off: rgba(255, 255, 255, 0);
+  --builders-on: rgb(106, 76, 255);
+  --Contrast: rgb(252, 252, 252);
+  --contrast-dark: rgb(229, 229, 230);
+  --contrast-darker: rgb(176, 176, 181);
+  --contrast-darkest: rgb(123, 123, 132);
+  --contrast-effect: rgba(255, 255, 255, 0.15);
+  --Special: rgb(255, 190, 125);
+  --special-dark: rgb(153, 102, 51);
+  --special-darker: rgb(66, 51, 36);
+  --Warning: rgb(255, 50, 105);
+  --warning-dark: rgb(153, 51, 78);
+  --warning-darker: rgb(66, 36, 44);
+}
