@@ -1,0 +1,16 @@
+{
+  "size": {
+    "lineHeight": {
+      "title": { "value": "28px" },
+      "subheadline": { "value": "24px" },
+      "largeTitle": { "value": "40px" },
+      "headline": { "value": "24px" },
+      "footnote": { "value": "20px" },
+      "description": { "value": "20px" },
+      "caption": { "value": "16px" },
+      "capital": { "value": "16px" },
+      "body": { "value": "24px" },
+      "badge": { "value": "7px" }
+    }
+  }
+}

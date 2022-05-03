@@ -1,0 +1,16 @@
+{
+  "size": {
+    "font": {
+      "title": { "value": "24px" },
+      "subheadline": { "value": "16px" },
+      "largeTitle": { "value": "32px" },
+      "headline": { "value": "20px" },
+      "footnote": { "value": "12px" },
+      "description": { "value": "14px" },
+      "caption": { "value": "10px" },
+      "capital": { "value": "10px" },
+      "body": { "value": "16px" },
+      "badge": { "value": "8px" }
+    }
+  }
+}
