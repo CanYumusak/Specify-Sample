@@ -1,0 +1,8 @@
+[
+    {
+        "name": "color/base.json",
+        "value": {
+            "content": "{\n  \"color\": {\n    \"base\": {\n      \"warningDarker\": { \"value\": \"rgb(66, 36, 44)\" },\n      \"warningDark\": { \"value\": \"rgb(153, 51, 78)\" },\n      \"warning\": { \"value\": \"rgb(255, 50, 105)\" },\n      \"specialDarker\": { \"value\": \"rgb(66, 51, 36)\" },\n      \"specialDark\": { \"value\": \"rgb(153, 102, 51)\" },\n      \"special\": { \"value\": \"rgb(255, 190, 125)\" },\n      \"contrastEffect\": { \"value\": \"rgba(255, 255, 255, 0.15)\" },\n      \"contrastDarkest\": { \"value\": \"rgb(123, 123, 132)\" },\n      \"contrastDarker\": { \"value\": \"rgb(176, 176, 181)\" },\n      \"contrastDark\": { \"value\": \"rgb(229, 229, 230)\" },\n      \"contrast\": { \"value\": \"rgb(252, 252, 252)\" },\n      \"buildersOn\": { \"value\": \"rgb(106, 76, 255)\" },\n      \"buildersOff\": { \"value\": \"rgba(255, 255, 255, 0)\" },\n      \"baseEffect\": { \"value\": \"rgba(34, 34, 34, 0.6)\" },\n      \"baseBrightest\": { \"value\": \"rgb(74, 74, 79)\" },\n      \"baseBrighter\": { \"value\": \"rgb(49, 49, 53)\" },\n      \"baseBright\": { \"value\": \"rgb(25, 25, 26)\" },\n      \"base\": { \"value\": \"rgb(0, 0, 0)\" },\n      \"accentDarker\": { \"value\": \"rgb(36, 66, 64)\" },\n      \"accentDark\": { \"value\": \"rgb(51, 153, 145)\" },\n      \"accent\": { \"value\": \"rgb(33, 254, 236)\" }\n    }\n  }\n}\n"
+        }
+    }
+]
